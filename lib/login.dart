@@ -61,7 +61,7 @@ class _LoginState extends State<Login> {
               const Center(
                 child: CircleAvatar(
                   radius: 50,
-                  backgroundImage: AssetImage('assets/808.jpg'),
+                  backgroundImage: AssetImage('assets/star.jpg'),
                 ),
               ),
               TextFormField(

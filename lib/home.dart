@@ -31,12 +31,12 @@ class homepage extends StatelessWidget {
               const Center(
                 child: CircleAvatar(
                   radius: 50,
-                  backgroundImage: AssetImage('assets/sus.jpg'),
+                  backgroundImage: AssetImage('assets/gojo.jpg'),
                 ),
               ),
               const SizedBox(height: 20),
               const Text(
-                "JOHN CARLO CARASI",
+                "Philip Lawrence Solis",
                 style: TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
@@ -44,7 +44,7 @@ class homepage extends StatelessWidget {
               ),
               const SizedBox(height: 20),
               const Text(
-                "Address: Longos, Calasiao, Pangasinan",
+                "Address: Poblacion East, Calasiao, Pangasinan",
                 style: TextStyle(fontSize: 20),
               ),
                SizedBox(height: 20),
@@ -57,7 +57,7 @@ class homepage extends StatelessWidget {
                       color: Color.fromARGB(255, 32, 123, 165),
                     ),
                     Text(
-                      "09299924718",
+                      "09565740749",
                       style: TextStyle(fontSize: 20),
                     ),
                   ],
@@ -69,7 +69,7 @@ class homepage extends StatelessWidget {
                 child: Row(children: [
                   Icon(Icons.email, color: Color.fromARGB(255, 29, 108, 145)),
                   Text(
-                    "johncarlocarasi00@gmail.com",
+                    "philipsolis10@gmail.com",
                     style: TextStyle(fontSize: 20),
                   ),
                 ]),
@@ -83,7 +83,7 @@ class homepage extends StatelessWidget {
                 ),
               ),
               const Text(
-                "TagaMekus",
+                "I.T Experts",
                 style: TextStyle(fontSize: 20),
               ),
               SizedBox(height: 20),

@@ -15,7 +15,7 @@ class skills extends StatelessWidget {
           Padding(
             padding: EdgeInsets.fromLTRB(10, 20, 0, 0),
             child: Text(
-              'TagaMekus',
+              'Leadership',
               style: TextStyle(
                 fontSize: 20,
                 color: Colors.lightBlue,
@@ -37,7 +37,7 @@ class skills extends StatelessWidget {
           Padding(
             padding: EdgeInsets.fromLTRB(10, 10, 0, 0),
             child: Text(
-              'Driving',
+              'Security',
               style: TextStyle(
                 color: Colors.lightBlue,
                 fontSize: 18,
@@ -48,7 +48,7 @@ class skills extends StatelessWidget {
           Padding(
             padding: EdgeInsets.fromLTRB(10, 10, 0, 0),
             child: Text(
-              'Writing',
+              'Project Management',
               style: TextStyle(
                 color: Colors.lightBlue,
                 fontSize: 18,
@@ -59,7 +59,7 @@ class skills extends StatelessWidget {
           Padding(
             padding: EdgeInsets.fromLTRB(10, 10, 0, 0),
             child: Text(
-              'reading',
+              'Analytical',
               style: TextStyle(
                 color: Colors.lightBlue,
                 fontSize: 18,
@@ -70,7 +70,7 @@ class skills extends StatelessWidget {
           Padding(
             padding: EdgeInsets.fromLTRB(10, 10, 0, 0),
             child: Text(
-              'breathing',
+              'Cloud computing',
               style: TextStyle(
                 color: Colors.lightBlue,
                 fontSize: 18,
@@ -81,7 +81,7 @@ class skills extends StatelessWidget {
           Padding(
             padding: EdgeInsets.fromLTRB(10, 10, 0, 0),
             child: Text(
-              'aguy',
+              'Hacking',
               style: TextStyle(
                 color: Colors.lightBlue,
                 fontSize: 18,
@@ -92,7 +92,7 @@ class skills extends StatelessWidget {
           Padding(
             padding: EdgeInsets.fromLTRB(10, 10, 0, 0),
             child: Text(
-              'ginoo',
+              'Organization',
               style: TextStyle(
                 color: Colors.lightBlue,
                 fontSize: 18,

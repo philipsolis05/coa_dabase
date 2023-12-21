@@ -26,7 +26,7 @@ class personal extends StatelessWidget {
           Padding(
             padding: EdgeInsets.fromLTRB(10, 20, 0, 0),
             child: Text(
-              'Name: John Carlo C. Carasi',
+              'Name: Philip Lawrence Solis',
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.lightBlue,
@@ -48,7 +48,7 @@ class personal extends StatelessWidget {
           Padding(
             padding: EdgeInsets.fromLTRB(10, 10, 0, 0),
             child: Text(
-              'Date of Birth: January 00, 2001',
+              'Date of Birth: May 10, 2001',
               style: TextStyle(
                 color: Colors.lightBlue,
                 fontSize: 16,
@@ -59,7 +59,7 @@ class personal extends StatelessWidget {
           Padding(
             padding: EdgeInsets.fromLTRB(10, 10, 0, 0),
             child: Text(
-              'Address: Longos Calasiao, Pangasinan',
+              'Address: Poblacion East Calasiao, Pangasinan',
               style: TextStyle(
                 color: Colors.lightBlue,
                 fontSize: 16,
@@ -138,7 +138,7 @@ class personal extends StatelessWidget {
               Padding(
             padding: EdgeInsets.fromLTRB(10, 10, 0, 0),
             child: Text(
-              'Alaminos City National High School',
+              'Calasiao Comprehensive National High School',
               style: TextStyle(
                 color: Colors.lightBlue,
                 fontSize: 16,
